@@ -1,2 +1,18 @@
 ﻿body {
+
 }
+
+
+/*background-image {
+    filter: contrast(200%);
+}*/
+
+.contrast {filter: contrast(200%);}
+
+/*.translucent {
+    opacity:0.1;*/
+/*}*/
+
+
+
+.saturate {-webkit-filter: saturate(200%); filter: saturate(200%);}
