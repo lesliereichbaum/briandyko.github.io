@@ -10,18 +10,12 @@ h2{
     text-align: center;
 }
 
-/*section#banner::after {
-    background-image: url('../../images/autumnbg.jpeg');
-    opacity:0.1;
-}*/
-
 
 /*GitHub buttons*/
 
 a.button.icon.alt.fa-github {
     background-color: #5480f1;
 }
-
 
 
 /*email forms*/
