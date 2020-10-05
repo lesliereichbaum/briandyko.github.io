@@ -2779,7 +2779,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #e44c65;
+			background-color: #e0b9bf;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -3081,7 +3081,7 @@
 	}
 
 		.wrapper.style2 {
-			background: #e44c65;
+			background: rgb(245, 130, 176);
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3116,7 +3116,7 @@
 			.wrapper.style2 input[type="button"].special,
 			.wrapper.style2 .button.special {
 				background-color: #ffffff;
-				color: #e44c65 !important;
+				color: #d8415a !important;
 			}
 
 				.wrapper.style2 input[type="submit"].special:hover, .wrapper.style2 input[type="submit"].special:active,
